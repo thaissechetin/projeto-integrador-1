@@ -3,7 +3,7 @@
 
     <main id="container">
         <section>
-            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Totam, temporibus necessitatibus asperiores unde aliquam ex vitae blanditiis saepe amet molestiae eveniet dolorum illo voluptate accusamus id culpa, doloribus exercitationem aperiam!</p>
+            <p style="color: yellow;">Lorem ipsum dolor sit amet consectetur adipisicing elit. Totam, temporibus necessitatibus asperiores unde aliquam ex vitae blanditiis saepe amet molestiae eveniet dolorum illo voluptate accusamus id culpa, doloribus exercitationem aperiam!</p>
             
             <p>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Maxime excepturi, quaerat soluta reprehenderit ex consequuntur culpa totam. Aliquid alias magnam cum tempore facere est molestiae quis, optio adipisci illum! Assumenda?</p>
 
@@ -16,9 +16,5 @@
 
         </section>
     </main>
-
-    <footer>
-        <p class="do-footer">Desenvolvido por alunos Senac 2022</p>
-    </footer>
-</body>
-</html>
+<?php require "rodape.php";?>
+    

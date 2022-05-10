@@ -21,7 +21,7 @@
         <li><a href="#">Home</a></li>
         <li><a href="#">Metal</a>
             <ul>
-                <li><a href="#">Black Sabbath</a></li>
+                <li><a href="blacksabbath.php">Black Sabbath</a></li>
                <!--  <li><a href="#">Motorhead</a></li> -->
                 <li><a href="#">Iron Maiden</a></li>
                 <li><a href="#">Metallica</a></li>
@@ -30,12 +30,12 @@
         </li>
         <li><a href="#">Classic Rock</a>
         <ul>
-          <!--   <li><a href="#">Rolling Stones</a></li>
-           <!--  <li><a href="#">Beatles</a></li> -->
+          <!--   <li><a href="#">Rolling Stones</a></li>-->
+           <!-- <li><a href="#">Beatles</a></li> -->
             <li><a href="#">Led Zeppelin</a></li>
             <li><a href="#">Pink Floyd</a></li>
-            <li><a href="#">Queen</a></li> -->
-            <li><a href="#">Kiss</a></li>
+            <li><a href="#">Queen</a></li>
+            <li><a href="kiss.php">Kiss</a></li>
         </ul>
     </li>
        <!--  <li><a href="#">Punk</a>
@@ -55,7 +55,7 @@
         </li> -->
         <li><a href="#">Rock Nacional</a>
             <ul>
-                <li><a href="#"></a></li>
+                <li><a href="legiao.php">Legião Urbana</a></li>
                 <li><a href="#"></a></li>
                 <li><a href="#"></a></li>
             </ul>

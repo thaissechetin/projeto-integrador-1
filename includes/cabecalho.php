@@ -6,6 +6,15 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Página 1</title>
     <link rel="stylesheet" href="estilos.css">
+    <link rel="stylesheet" href="slick/slick.css">
+    <link rel="stylesheet" href="slick/slick-theme.css">
+    <style>
+        #slider {
+            margin: 0 auto;
+            width: 100%;
+        }
+
+    </style>
 </head>
 
 <body> 

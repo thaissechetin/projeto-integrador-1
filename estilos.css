@@ -12,8 +12,15 @@ html { font-size: 14px; }
 body {
     background-color: black;
     margin:auto;
+   /*  display: flex;
+        flex-direction: column;
+        min-height: 100vh;  etapa 1 resolver o problema do rodapé*/ 
 }
 
+/* main {
+     flex: 1; 
+}  etapa 2 resolver rodapé (não deu certo)
+ */
 p {
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     padding: 10px;
@@ -115,18 +122,23 @@ nav ul li ul li a:hover {
 
 .do-footer {
     background-color: black;
+    font-size: 12px;
     color: whitesmoke;
     text-align: center;
     padding:15px;
     height: 18px;
 }
 h1 {
+    font-family: 'New Rocker', cursive;
+    text-shadow: 2px 2px 5px red;
     text-align: center;
     font-size: 38px;
     padding: 10px;
 }
 
 h2 {
+    font-family: 'New Rocker', cursive;
+    text-shadow: 2px 2px 5px red;
     font-size: 25px;
     padding: 10px;
 }

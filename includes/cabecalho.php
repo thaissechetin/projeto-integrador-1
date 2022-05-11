@@ -27,23 +27,21 @@
 <nav>
     
     <ul>
-        <li><a href="#">Home</a></li>
+        <li><a href="index.php">Home</a></li>
         <li><a href="#">Metal</a>
             <ul>
                 <li><a href="blacksabbath.php">Black Sabbath</a></li>
-               <!--  <li><a href="#">Motorhead</a></li> -->
+    
                 <li><a href="#">Iron Maiden</a></li>
                 <li><a href="#">Metallica</a></li>
-                <li><a href="#">Megadeth</a></li>
+    
             </ul>
         </li>
         <li><a href="#">Classic Rock</a>
         <ul>
           <!--   <li><a href="#">Rolling Stones</a></li>-->
-           <!-- <li><a href="#">Beatles</a></li> -->
-            <li><a href="#">Led Zeppelin</a></li>
-            <li><a href="#">Pink Floyd</a></li>
-            <li><a href="#">Queen</a></li>
+           <li><a href="beatles.php">Beatles</a></li>
+            <li><a href="queen.php">Queen</a></li>
             <li><a href="kiss.php">Kiss</a></li>
         </ul>
     </li>

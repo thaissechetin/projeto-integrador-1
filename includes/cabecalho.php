@@ -63,7 +63,6 @@
             <ul>
                 <li><a href="legiao.php">Legião Urbana</a></li>
                 <li><a href="raul.php"></a>Raul Seixas</li>
-                <li><a href="#"></a></li>
             </ul>
         </li>
         

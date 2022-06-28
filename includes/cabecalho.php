@@ -39,20 +39,19 @@
         </li>
         <li><a href="#">Classic Rock</a>
         <ul>
-          <!--   <li><a href="#">Rolling Stones</a></li>-->
+          
            <li><a href="beatles.php">Beatles</a></li>
             <li><a href="queen.php">Queen</a></li>
             <li><a href="kiss.php">Kiss</a></li>
         </ul>
     </li>
-       <!--  <li><a href="#">Punk</a>
+        <li><a href="#">Punk</a>
             <ul>
-                <li><a href="#">Sex Pistols</a></li>
-                <li><a href="#">Ramones</a></li>
-                <li><a href="#">The Clash</a></li>
-                <li><a href="#">Green Day</a></li>
+                <li><a href="garotos.php">Garotos Podres</a></li>
+                <li><a href="plebe.php">Plebe Rude</a></li>
+                
             </ul>
-        </li> -->
+        </li>
        <!--  <li><a href="#">Grunge</a>
             <ul>
                 <li><a href="#">Nirvana</a></li>
@@ -63,8 +62,7 @@
         <li><a href="#">Rock Nacional</a>
             <ul>
                 <li><a href="legiao.php">Legião Urbana</a></li>
-                <li><a href="#"></a></li>
-                <li><a href="#"></a></li>
+                <li><a href="raul.php"></a>Raul Seixas</li>
             </ul>
         </li>
         
